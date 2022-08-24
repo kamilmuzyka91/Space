@@ -1,0 +1,29 @@
+@import "../css/reset.css";
+@import "../css/navigation.css";
+@import "../css/header.css";
+@import "../css/content.css";
+@import "../css/footer.css";
+
+:root {
+  --bg-color-main: #11203e;
+  --black-color: #000;
+  --white-color: #fff;
+  --article-color: #929292;
+  --footer-color: #525252;
+  --menu-hover: #808080;
+}
+
+body {
+  background: var(--bg-color-main);
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.container {
+  margin: 0 auto;
+  width: 930px;
+}

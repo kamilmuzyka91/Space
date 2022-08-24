@@ -1,4 +1,6 @@
+@import "../css/reset.css";
 @import "../css/header.css";
+@import "../css/box.css";
 
 :root {
   --bg-color-main: #11203e;
@@ -8,14 +10,14 @@
   --footer-color-text: #525252;
 }
 
-body,
-html {
+body {
+  background: var(--bg-color-main);
   font-family: "Source Sans Pro", sans-serif;
 }
 
 * {
   box-sizing: border-box;
-  margin: 0; 
+  margin: 0;
 }
 
 .container {

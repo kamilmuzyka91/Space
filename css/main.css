@@ -1,6 +1,6 @@
 @import "../css/reset.css";
 @import "../css/header.css";
-@import "../css/box.css";
+@import "../css/content.css";
 
 :root {
   --bg-color-main: #11203e;

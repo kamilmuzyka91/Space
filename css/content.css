@@ -30,9 +30,9 @@
 .article__btn {
   display: inline-block;
   padding: 15px 25px;
-  border: 2px solid #fff;
+  border: 2px solid var(--white-color);
   border-radius: 50px;
-  color: #fff;
+  color: var(--white-color);
   background: none;
   text-decoration: none;
   font-weight: 600;

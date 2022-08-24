@@ -4,10 +4,10 @@
 
 :root {
   --bg-color-main: #11203e;
-  --bg-color-footer: #000;
-  --banner-color-text: #fff;
-  --article-color-text: #929292;
-  --footer-color-text: #525252;
+  --black-color: #000;
+  --white-color: #fff;
+  --article-color: #929292;
+  --footer-color: #525252;
 }
 
 body {

@@ -2,6 +2,8 @@
 
 Simple layout in pure HTML &amp; CSS
 
+- 
+
 ## What I used:
 
 - Flexbox
@@ -15,3 +17,5 @@ Simple layout in pure HTML &amp; CSS
 - Add RWD and mobile first approach
 
 ## Layout photo
+
+![](./images/layoutSX.png)

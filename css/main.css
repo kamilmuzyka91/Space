@@ -1,0 +1,24 @@
+@import "../css/header.css";
+
+:root {
+  --bg-color-main: #11203e;
+  --bg-color-footer: #000;
+  --banner-color-text: #fff;
+  --article-color-text: #929292;
+  --footer-color-text: #525252;
+}
+
+body,
+html {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0; 
+}
+
+.container {
+  margin: 0 auto;
+  width: 930px;
+}
